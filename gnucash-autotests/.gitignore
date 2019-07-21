@@ -1,19 +1,10 @@
-# # OSX
-# #
-# .DS_Store
+# node.js
 
-# # IntelliJ
-# #
-# .idea
+node_modules/
+npm-debug.log
 
-# # node.js
-# #
-# node_modules/
-# npm-debug.log
+# custom
+apps/
+*.log
 
-# # custom
-# apps/
-# *.log
-# chromeDriver
-
-# package-lock.json
+package-lock.json
